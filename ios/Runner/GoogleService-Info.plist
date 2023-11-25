@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>114481212507-a8ld0mdt80h86vunaa13chjalg5ua5t5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.114481212507-a8ld0mdt80h86vunaa13chjalg5ua5t5</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>114481212507-4agaj2i6ijkj1k8hmp3ojs6q1td4hpqr.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyApIRCHuRS2J5ZnecMSfyNECwi0u-3J9Qo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>114481212507</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jbsilva.dev.getxAppfilmes</string>
+	<key>PROJECT_ID</key>
+	<string>getx-api-filmes</string>
+	<key>STORAGE_BUCKET</key>
+	<string>getx-api-filmes.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:114481212507:ios:c9208bf562cb3b89cce37e</string>
+</dict>
+</plist>

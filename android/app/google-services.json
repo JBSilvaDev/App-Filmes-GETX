@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "114481212507",
+    "project_id": "getx-api-filmes",
+    "storage_bucket": "getx-api-filmes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114481212507:android:7d1de4c64e915148cce37e",
+        "android_client_info": {
+          "package_name": "com.jbsilva.dev.getx_appfilmes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114481212507-2gnhtt9vbjcut5tru3lkj23umh7hnf49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jbsilva.dev.getx_appfilmes",
+            "certificate_hash": "225ef31ec2bfe221fb125b42bdd0d6f9a9f29726"
+          }
+        },
+        {
+          "client_id": "114481212507-amrknefhdf90l6kpatlnlak1cbim3qnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnuy-YzY3JAjvDiBXEeSWnnSovurCsPqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114481212507-amrknefhdf90l6kpatlnlak1cbim3qnn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "114481212507-5eo7aqint56kiqhmgs6114hv40srgidi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jbsilva.dev.apiFilmesGetx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
